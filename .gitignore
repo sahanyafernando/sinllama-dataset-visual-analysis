@@ -1,0 +1,15 @@
+# Large datasets
+data/
+outputs/
+generated_images/
+
+# Large result files
+*.parquet
+*.zip
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc

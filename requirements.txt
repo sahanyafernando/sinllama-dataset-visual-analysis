@@ -1,0 +1,10 @@
+datasets
+duckdb
+pyarrow
+pandas
+numpy
+matplotlib
+regex
+pillow
+tqdm
+fonttools
