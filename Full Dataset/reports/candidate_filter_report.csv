@@ -1,0 +1,8 @@
+condition,affected_rows_or_sample_rows,denominator,percentage
+Empty row,0,10730154,0.0
+Fewer than 3 words,0,10730154,0.0
+More than 256 words,417,10730154,0.003886244316717169
+Sinhala ratio below 80%,575820,10730154,5.366372188134485
+Contains a control character,5113427,10730154,47.65474009040317
+Requires more than 8 wrapped lines,85,10000,0.85
+Rendered width above sample p99,100,10000,1.0
